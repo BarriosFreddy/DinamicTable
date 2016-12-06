@@ -1,0 +1,21 @@
+{
+  "name": "dinamic_table",
+  "version": "1.0.0",
+  "description": "Generador de tabla apartir de un conjunto de datos en formato JSON",
+  "main": "DinamicTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dinamic",
+    "table",
+    "js",
+    "javascript",
+    "JSON"
+  ],
+  "author": "Freddy Barrios",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
